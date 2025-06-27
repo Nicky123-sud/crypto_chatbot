@@ -14,3 +14,6 @@ CryptoBuddy is a beginner-friendly AI chatbot that gives advice on crypto invest
 ## Disclaimer
 ⚠️ This is not financial advice. Always do your own research!
 
+=======
+# crypto_chatbot
+ A rule-based AI chatbot that gives cryptocurrency advice.
